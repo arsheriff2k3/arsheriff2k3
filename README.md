@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://drive.google.com/file/d/1JQO5ps8KPYeXlKNImaMqkhtKOjRCI9IO/view?usp=sharing" align="center" style="width: 100%" />
-</div>  
-  
+https://drive.google.com/file/d/1JQO5ps8KPYeXlKNImaMqkhtKOjRCI9IO/view?usp=sharing
 
 ### <div align="center">I'm Rahman Basha, a back-end developer 👨‍💻 working  since 2022 🚀</div>  
   
