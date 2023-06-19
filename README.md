@@ -1,7 +1,7 @@
 
 
 
-### <div align="center">I'm Rahman Basha, a back-end developer 👨‍💻 working  since 2022 🚀</div>  
+### <div align="center">I'm Rahman Basha, a back-end developer 👨‍💻 since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on ai and ml projects  
