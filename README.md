@@ -1,13 +1,13 @@
 
 
 
-### <div align="center">I'm Rahman Basha, a back-end developer 👨‍💻 since 2022 🚀</div>  
+### <div align="center">I'm Rahman Basha, a software engineer 👨‍💻 since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on ai and ml projects  
+- 🔭 I’m currently working on flutter projects
   
 
-- 🌱 I’m currently learning artificial intelligence  
+- 🌱 I’m currently learning mcp protocol
   
 
 - ❓ Ask me about anything related to development  
